@@ -1,2 +1,6 @@
 * smarthome
   Raspberry Setup with Homematic, Conbee, and Kiosk
+
+* References
+  - [[https://askubuntu.com/questions/310671/start-ubuntu-without-a-desktop-environment-but-start-an-x-application][Start ubuntu without a desktop environment but start an X application - Ask U...]]
+  - [[https://pimylifeup.com/raspberry-pi-kiosk/][Raspberry Pi Kiosk using Chromium - Pi My Life Up]]
